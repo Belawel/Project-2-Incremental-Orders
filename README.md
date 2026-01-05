@@ -10,7 +10,7 @@ Raw data is ingested in append-only mode, cleaned and upserted using `MERGE`, an
 ---
 
 ## Architecture Overview
-![Incremental Medallion Orders Pipeline](images/project2_incremental_medallion_architecture.png)
+![Incremental Medallion Orders Pipeline](docs/project2_incremental_medallion_architecture.png)
 
 ---
 
